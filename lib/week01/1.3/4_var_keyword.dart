@@ -1,5 +1,5 @@
 void main() {
-  var name = '코드퍂토리';
+  var name = '코드팩토리';
   print(name);
 
   // 변수값 변경 가능

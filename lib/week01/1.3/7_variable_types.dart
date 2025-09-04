@@ -8,7 +8,7 @@ void main() {
   // double 실수
   double isDouble = 2.5;
 
-  // bool 불리언(참 거짓)
+  // bool 불리언 (true, false)
   bool isTrue = true;
 
   print(name);
