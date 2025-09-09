@@ -11,5 +11,5 @@ void main() {
   /// 슬래시 세 개를 사용하면
   /// 문서 주석 작성 가능
   /// DartDoc이나 안드로이드 스튜디오 같은
-  /// IDE에서 문서(Documentation)로 인식
+  /// IDE에서 문서(Documentation)로 인식 s
 }

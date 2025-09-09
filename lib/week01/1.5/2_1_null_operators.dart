@@ -5,3 +5,4 @@ void main() {
   // 타입 뒤에 ?를 명시하지 않아 에러가 납니다.
   double number2 = null;
 }
+//

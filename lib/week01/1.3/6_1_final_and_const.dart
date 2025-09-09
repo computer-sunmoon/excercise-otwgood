@@ -5,3 +5,4 @@ void main() {
   const String name2 = 'BTS';
   name2 = '블랙핑크'; // 에러 발생. cosnt로 선언한 변수는 선언 후 값을 변경할 수 없음.
 }
+//

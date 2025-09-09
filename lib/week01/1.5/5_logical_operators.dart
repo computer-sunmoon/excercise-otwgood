@@ -14,3 +14,4 @@ void main() {
   bool result5 = 12 < 10 || 0 > 1; // 12가 10보다 작거나 0이 1보다 클 때
   print(result5); // false
 }
+//
