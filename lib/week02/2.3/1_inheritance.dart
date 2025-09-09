@@ -37,4 +37,3 @@ void main() {
   bts.sayMembersCount(); // 부모한테 물려 받은 메서드
   bts.sayMale(); // 자식이 새로 추가한 메서드
 }
-//a
